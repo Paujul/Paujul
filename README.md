@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Paujul
-- 👀 I'm using my real name whenever I do a commission.
+- 👀 I'm using my real name whenever I commit.
 - 🌱 Currently learning web.
 - 💞️ Currently looking for pair programming assistance.
 - 📫 p4ujul@gmail.com
