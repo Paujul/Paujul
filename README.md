@@ -2,7 +2,7 @@
   <b>Fauzul Ashari</b>
 </h1>
 <p align="center">
-  Front-end & JS enthusiast.
+  Bubble Tea Shop
  </p>
 <br/>
 <p align="center">
