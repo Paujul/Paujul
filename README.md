@@ -16,5 +16,4 @@
 [![Paujul' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Paujul&&custom_title=Paujul's%20Contributions&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://instagram.com/paujul)
 
 ### Roles :
-- Front-end Developer
-- React Developer
+- DotA2 Pos 4
