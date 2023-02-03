@@ -24,5 +24,5 @@
 ### Roles :
 - DotA2 Pos 4
 - React Developer
-- FOSS Enthusiast(?)
-- #1 Sage Main @ Kabupaten Bekasi
+- FOSS Enthusiast
+- #1 PHP Hater
