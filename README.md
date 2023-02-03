@@ -25,4 +25,5 @@
 - DotA2 Pos 4
 - React Developer
 - FOSS Enthusiast
+- Tokopedia Gold Member
 - #1 PHP Hater
